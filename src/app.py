@@ -55,7 +55,7 @@ def get_huggingface_llm(model_name: str="google/gemma-2b", max_new_tokens: int =
         tokenizer=tokenizer,
         max_new_tokens=512,
         pad_token_id=tokenizer.eos_token_id,
-        device_map="cpu"
+        device_map="auto"
     )
 
     llm = HuggingFacePipeline(
