@@ -1,4 +1,4 @@
-# RAG-With-Langchain
+# RAG Chainlit
 
 This repository contains the code for a Retrieval-Augmented Generation (RAG) system that leverages a large language model to answer questions based on PDF documents. The approach is inspired by insights shared by [AI VIETNAM](https://www.facebook.com/aivietnam.edu.vn/posts/778244334418287?rdid=T8Lv2BzNXM8If0u6). The project also utilizes Chainlit, a robust framework designed for building interactive conversational AI applications. Chainlit enables the creation of an intuitive user interface for the question-answering system, enhancing user experience.
 
