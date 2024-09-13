@@ -52,5 +52,5 @@ To run the project on Google Colab, follow the guide provided in this [notebook]
 
 - **Chainlit Framework:** Provides a seamless way to develop and deploy conversational AI with a focus on creating interactive and user-friendly experiences.
 
-For more details, please refer to the [documentation]([https://example.com/documentation](https://docs.chainlit.io/get-started/overview)) and the [Chainlit project page](https://github.com/Chainlit/cookbook).
+For more details, please refer to the [documentation](https://docs.chainlit.io/get-started/overview) and the [Chainlit project page](https://github.com/Chainlit/cookbook).
 
